@@ -31,7 +31,14 @@ main{
     margin: 0 auto;
     width: 95%;
 }
+#home {
+    text-align: center;
+}
+#primera-imagen {
+    width: 300px;
+    margin-top: 10px;
 
+}
 
 #service-Container {
     display: flex; /* Hace que los elementos hijos (li) se muestren en línea */
